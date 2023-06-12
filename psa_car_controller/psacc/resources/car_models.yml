@@ -117,7 +117,7 @@
   battery_power: 0
   fuel_capacity: 56
   abrp_name:
-  reg: VF3L35GG.*
+  reg: VF3MJAHXHH.*
   max_elec_consumption: 70
   max_fuel_consumption: 30
 - !CarModel
