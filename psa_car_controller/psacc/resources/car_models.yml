@@ -358,4 +358,11 @@
   abrp_name: opel:comboe:22:50
   reg: W0VEZZKXZN.*
   max_elec_consumption: 45
-
+- !CarModel
+  name: SUV 3008 HDI150
+  battery_power: 0
+  fuel_capacity: 53
+  abrp_name:
+  reg: VF3MJAHXHH.*
+  max_elec_consumption: 70
+  max_fuel_consumption: 30
